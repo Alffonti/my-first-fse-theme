@@ -1,8 +1,14 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"version": 2,
-	"settings": {},
+	"settings": {
+		"layout": {
+			"contentSize": "840px",
+			"wideSize": "1000px"
+		}
+	},
 	"styles": {},
-	"customTemplates": {},
-	"templateParts": {}
+	"customTemplates": [],
+	"templateParts": [],
+	"patterns": []
 }
